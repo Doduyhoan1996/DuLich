@@ -1,0 +1,47 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	width: 1200px;
+	margin: auto;
+}
+
+#top{
+	height: 200px;
+	background-image: url(lua.PNG);
+	background-size: 100%;
+	text-align: center;
+	line-height: 200px;
+}
+#top h1{
+	font-size: 40px;
+	color: #97FFFF;
+}
+#top h3{
+	font-size: 30px;
+	color: #B22222;
+}
+#menu{
+	height: 30px;
+	background-color: #FFC1C1;
+
+}
+#menu ul li{
+	list-style-type: none;
+	float: left;
+	width: 200px;
+	text-align: center;
+	line-height: 30px;
+}
+#menu ul li a{
+	text-decoration: none;
+	color: #2E8B57;
+	font-size: 20px;
+}
+#buttom{
+	height: 40px;
+	background-color: red;
+	text-align: center;
+	line-height: 40px;
+}

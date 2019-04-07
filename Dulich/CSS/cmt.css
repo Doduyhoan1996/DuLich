@@ -1,0 +1,53 @@
+.title{
+	font-size: 25px;
+	color: #1586A6;
+}
+#nhapcmt{
+	margin-left: 200px;
+}
+#nhapcmt #anh{
+	margin-top: 15px;
+	display: inline-block;
+	float: left;
+}
+#nhapcmt #anh img{
+	width: 100px;
+}
+#nhapcmt #text{
+	display: inline-block;
+}
+#nhapcmt #comet{
+	width: 550px;
+	height: 100px;
+}
+.bao{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #F12647;
+	margin: 5px 5px 5px 5px;
+}
+.trong{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #2DE3E1;
+	margin: 5px 5px 5px 5px;
+}
+table{
+	margin-left: 200px;
+}
+table #cmt  #anh img{
+	width: 100px;
+}
+table #cmt  #anh{
+	width: 100px;
+	display: inline-block;
+	float: left;
+}
+table #cmt #text{
+	margin-top: 10px;
+	float: right;
+}
+table #cmt #text #tt{
+	color: #1611EB;
+	font-weight: 3px;
+}

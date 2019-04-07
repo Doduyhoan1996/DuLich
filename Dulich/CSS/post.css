@@ -1,0 +1,12 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	width: 1200px;
+	margin: auto;
+}
+p.txt{
+	color: #F4A460;
+	text-transform: uppercase;
+}

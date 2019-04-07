@@ -1,0 +1,51 @@
+p{
+	margin: 5px 5px 5px 5px;
+}
+.cangiua{
+	text-align: center;
+}
+#left
+{
+	display: inline-block;
+	float: left;
+	width: 20%;
+	border-style: dashed;
+	border-width: 1px;
+	border-color: #020C91;
+
+}
+#right
+{
+	display: inline-block;
+	float: right;
+	width: 79%;
+	border-style: dashed;
+	border-width: 1px;
+	border-color: #020C91;
+}
+.anhdaidien img{
+	width: 130px;
+	margin-left: 40px;
+}
+.tieude{
+	margin-top: 5px;
+}
+.title{
+	text-align: center;
+	font-size: 20px;
+	color: #0077F0;
+}
+.bao{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #F12647;
+	margin: 5px 5px 5px 5px;
+	padding: 10px 10px 10px 10px;
+}
+.trong{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #2DE3E1;
+	margin: 5px 5px 5px 5px;
+	padding: 10px 10px 10px 10px;
+}
